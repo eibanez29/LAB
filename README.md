@@ -16,7 +16,7 @@ struct stEtapaDeLavado
 
 Los tiempos de lavado se guardan en memoria no volatil.
 
-# Asignacioon de pines
+# Asignación de pines
 La asignacion de pines se puede ver en el archivo dout.h y dout.ino
 
   nValvePins[0] = 4;
