@@ -1,4 +1,4 @@
-# LAB
+# LAB (Lavadora Automática de Barriles
 ESP32 - Codigo para maquina de lavado de tanques de cerveza Kooch
 
 Se define una secuencia de lavado a traves de una estructura de datos
