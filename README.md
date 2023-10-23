@@ -33,6 +33,8 @@ La asignacion de pines se puede ver en el archivo dout.h y dout.ino
 
   nValvePins[6] = 21;
 
+  Pin para manejo de la Bomba: Pin 2
+
 # Comandos por el puerto serie
 
 start - Inicializa lavado completo
@@ -49,7 +51,7 @@ valvopen:X - abre la válvula
 
 valvclose:X - cierra la válvula
 
-stop - se ceirran las valvulas y se apaga ala bomba
+stop - se cierran las valvulas y se apaga ala bomba
 
 EEPROM - muestra el contenido de la EEPROM
 
