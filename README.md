@@ -4,7 +4,6 @@ ESP32 - Codigo para maquina de lavado de tanques de cerveza Kooch
 Se define una secuencia de lavado a traves de una estructura de datos
 
 ```
-
 //Estructura para el manejo de tipos de lavado
 struct stEtapaDeLavado
 {
@@ -13,7 +12,6 @@ struct stEtapaDeLavado
   bool bValves_Status[MAX_NUM_VALVES];
   unsigned int uiEstado_Bomba;
 };
-
 ```
 
 Los tiempos de lavado se guardan en memoria no volatil.
