@@ -15,6 +15,7 @@ struct stEtapaDeLavado
 };
 
 '''
+
 Los tiempos de lavado se guardan en memoria no volatil.
 
 # Asignacioon de pines
